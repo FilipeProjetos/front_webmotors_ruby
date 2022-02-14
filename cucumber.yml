@@ -1,0 +1,5 @@
+---
+default: --publish-quiet --color -p bdd -p html 
+bdd: -f pretty
+dots: -f progress
+html: -f html -o logs/report.html

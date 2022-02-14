@@ -1,0 +1,15 @@
+no inicio do projeto:
+
+instalar o Ruby language;
+
+
+Dentro da pasta do projeto:
+
+no terminal....
+
+	gem install bundler
+
+	bundle init
+
+	cucumber --init
+
